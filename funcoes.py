@@ -9,7 +9,7 @@ def rolar_dados(numero):
   
    return lista
 
-def guardar_dado(dados_rolados, dados_no_estoque, dado_para_guardar)
+def guardar_dado(dados_rolados, dados_no_estoque, dado_para_guardar):
     
     dado = dados_rolados[dado_para_guardar]
     dados_no_estoque.append(dado)
